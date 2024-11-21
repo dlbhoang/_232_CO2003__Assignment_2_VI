@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="7">
   <diagram name="Page-1" id="cP73WE2FDrvu0ZDdazoa">
     <mxGraphModel dx="954" dy="1739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -477,16 +477,6 @@
         <mxCell id="I8XKI0t9l9zOfTsHGcH3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I8XKI0t9l9zOfTsHGcH3-36" target="I8XKI0t9l9zOfTsHGcH3-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I8XKI0t9l9zOfTsHGcH3-46" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I8XKI0t9l9zOfTsHGcH3-40">
-          <mxGeometry x="-0.8667" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="I8XKI0t9l9zOfTsHGcH3-47" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I8XKI0t9l9zOfTsHGcH3-40">
-          <mxGeometry x="0.8" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -546,6 +536,35 @@
           <mxGeometry x="0.8106" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cB0ns9_MTXWCguem4lZn" name="Page-7">
+    <mxGraphModel dx="1354" dy="1039" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9cx5vIJYEwjdWBgbkBVq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9cx5vIJYEwjdWBgbkBVq-1" target="9cx5vIJYEwjdWBgbkBVq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9cx5vIJYEwjdWBgbkBVq-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-44" y="51" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9cx5vIJYEwjdWBgbkBVq-2" value="Quản lý phim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="41" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9cx5vIJYEwjdWBgbkBVq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9cx5vIJYEwjdWBgbkBVq-4" target="9cx5vIJYEwjdWBgbkBVq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9cx5vIJYEwjdWBgbkBVq-4" value="Thể loại" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="-77" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9cx5vIJYEwjdWBgbkBVq-6" value="Phim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="306" y="158" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9cx5vIJYEwjdWBgbkBVq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9cx5vIJYEwjdWBgbkBVq-6" target="9cx5vIJYEwjdWBgbkBVq-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
